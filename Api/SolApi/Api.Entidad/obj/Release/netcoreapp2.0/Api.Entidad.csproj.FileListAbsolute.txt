@@ -1,0 +1,9 @@
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.Entidad\bin\Release\netcoreapp2.0\Api.Entidad.deps.json
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.Entidad\bin\Release\netcoreapp2.0\Api.Entidad.dll
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.Entidad\bin\Release\netcoreapp2.0\Api.Entidad.pdb
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.Entidad\obj\Release\netcoreapp2.0\Api.Entidad.csprojResolveAssemblyReference.cache
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.Entidad\obj\Release\netcoreapp2.0\Api.Entidad.csproj.CoreCompileInputs.cache
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.Entidad\obj\Release\netcoreapp2.0\Api.Entidad.AssemblyInfoInputs.cache
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.Entidad\obj\Release\netcoreapp2.0\Api.Entidad.AssemblyInfo.cs
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.Entidad\obj\Release\netcoreapp2.0\Api.Entidad.dll
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.Entidad\obj\Release\netcoreapp2.0\Api.Entidad.pdb

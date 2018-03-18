@@ -1,0 +1,11 @@
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\bin\Release\netcoreapp2.0\Api.DAO.deps.json
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\bin\Release\netcoreapp2.0\Api.DAO.dll
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\bin\Release\netcoreapp2.0\Api.DAO.pdb
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\bin\Release\netcoreapp2.0\Api.Entidad.dll
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\bin\Release\netcoreapp2.0\Api.Entidad.pdb
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\obj\Release\netcoreapp2.0\Api.DAO.csprojResolveAssemblyReference.cache
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\obj\Release\netcoreapp2.0\Api.DAO.csproj.CoreCompileInputs.cache
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\obj\Release\netcoreapp2.0\Api.DAO.AssemblyInfoInputs.cache
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\obj\Release\netcoreapp2.0\Api.DAO.AssemblyInfo.cs
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\obj\Release\netcoreapp2.0\Api.DAO.dll
+C:\Proyectos\Demos\Android\Android-Firebase\Api\SolApi\Api.DAO\obj\Release\netcoreapp2.0\Api.DAO.pdb
