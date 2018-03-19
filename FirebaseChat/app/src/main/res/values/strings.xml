@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirebaseChat</string>
+    <string name="facebook_app_id">345180752644337</string>
+    <string name="fb_login_protocol_scheme">fb345180752644337</string>
+
+
 </resources>
